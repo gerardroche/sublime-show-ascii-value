@@ -6,6 +6,8 @@ A Sublime Text plugin to show the [ASCII](https://en.wikipedia.org/wiki/ASCII) v
 
 **Pending availability in Package Control.**
 
+https://github.com/wbond/package_control_channel/pull/8763
+
 Install via [Package Control](https://packagecontrol.io/packages/ShowAsciiValue).
 
 ## Usage
