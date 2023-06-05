@@ -4,11 +4,19 @@ A Sublime Text plugin to show the [ASCII](https://en.wikipedia.org/wiki/ASCII) v
 
 ## Installation
 
-**Pending availability in Package Control.**
+Close Sublime Text, then download or clone this repository to a directory named **ShowAsciiValue** in the Sublime Text Packages directory for your platform:
 
-https://github.com/wbond/package_control_channel/pull/8763
+**Linux**
 
-Install via [Package Control](https://packagecontrol.io/packages/ShowAsciiValue).
+`git clone https://github.com/gerardroche/sublime-show-ascii-value.git ~/.config/sublime-text-3/Packages/ShowAsciiValue`
+
+**OSX**
+
+`git clone https://github.com/gerardroche/sublime-show-ascii-value.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ShowAsciiValue`
+
+**Windows**
+
+`git clone https://github.com/gerardroche/sublime-show-ascii-value.git %APPDATA%\Sublime/ Text/ 3/Packages/ShowAsciiValue`
 
 ## Usage
 
